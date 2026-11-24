@@ -1,3 +1,7 @@
+# GradeCalculator Testing
+
+## Test Cases
+[ตาราง Test Cases (Google Sheets)](https://docs.google.com/spreadsheets/d/1f5KxAeTa7YMZmrZM53eqUujeoJYQ2w_fVDi4CfW8iFY/edit?usp=sharing)
 
 | TC ID | Technique | score | Expected return | เป้าหมาย | Actual | Status |
 |:-:|:-:|:-:|:-:|---|:-:|:-:|
