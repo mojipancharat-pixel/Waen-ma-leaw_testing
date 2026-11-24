@@ -80,7 +80,7 @@ public class GradeCalculatorTest {
     }
 
     // NFR: เรียกซ้ำด้วยคะแนนเดิมได้ผลเหมือนเดิม (TC30)
-    @Testt
+    @Test
     public void sameInputGivesSameResult() {
         assertEquals(calc.gradeOf(80), calc.gradeOf(80));
     }
